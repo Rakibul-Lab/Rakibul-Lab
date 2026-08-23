@@ -4,7 +4,7 @@ Hi there! 👋 I’m a passionate Software Developer focused on building scalabl
 
 I enjoy designing clean backend architectures, developing RESTful APIs, working with databases, and creating efficient full-stack applications. I’m also continuously improving my Python skills and exploring modern technologies to solve real-world problems.
 
-I love problem-solving, clean code, system design, and learning new technologies**. Feel free to explore my repositories, where I share my projects, experiments, and development journey.
+I love problem-solving, clean code, system design, and learning new technologies. Feel free to explore my repositories, where I share my projects, experiments, and development journey.
 
 Let’s build something great together! 🚀
 
